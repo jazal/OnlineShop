@@ -40,3 +40,8 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+/Angular/.angular/cache/13.2.6
+/Angular/node_modules
+/Core/.vs/OnlineShop
+/Core/bin/Debug/net5.0
+/Core/obj
