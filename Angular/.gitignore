@@ -1,6 +1,4 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+# See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # Compiled output
 /dist
@@ -42,8 +40,3 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
-/Angular/.angular/cache/13.2.6
-/Angular/node_modules
-/Core/.vs/OnlineShop
-/Core/bin/Debug/net5.0
-/Core/obj
